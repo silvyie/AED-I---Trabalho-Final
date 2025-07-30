@@ -4,7 +4,7 @@
 
 #include "arsenal.h"
 
-#define TAM 50
+#define TAM 100
 
 struct arsenal {
     char nome[TAM];
